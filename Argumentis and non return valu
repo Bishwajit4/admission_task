@@ -1,0 +1,22 @@
+# include<stdio.h>
+# include<conio.h>
+void add(inta,intb);
+void main()
+{
+int p,q;
+clrscr();
+// compile time 
+add(10,20);
+printf(\" Enter the value of p and q");
+scanf("%d,%d"&p,&q);
+// return time 
+add (p,q);
+getch():
+}
+void add(inta,intb)
+{
+int c:
+c=a+b:
+printf('add %d" c);
+getch();
+}
